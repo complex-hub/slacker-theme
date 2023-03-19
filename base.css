@@ -1,18 +1,18 @@
 /**
- * @name Dracula Theme
- * @author Kabir Kwatra
- * @authorId 168376512272269313
- * @version 1.0.0
- * @description 🧛🏻‍♂️ Dark theme for all the things
- * @source https://github.com/Dracula/BetterDiscord
+ * @name Slack Theme
+ * @author ComplexHub
+ * @version 0.01
+ * @description A fork of Kabir Kwatra's Dracula Theme, based on Slack Dark Mode.
+ * @source https://github.com/complex-hub/slacker-theme
 **/
+
 :root {
   /* Dracula Base Colors */
-  --dracula-background: #282a36 !important;
-  --dracula-current-line: #44475a !important;
-  --dracula-selection: #44475a !important;
-  --dracula-foreground: #f8f8f2 !important;
-  --dracula-comment: #6272a4 !important;
+  --dracula-background: #1f1d22 !important;
+  --dracula-current-line: #4c4e51 !important;
+  --dracula-selection: #26282c !important;
+  --dracula-foreground: #b3b3b2 !important;
+  --dracula-comment: #666666 !important;
   --dracula-cyan: #8be9fd !important;
   --dracula-green: #50fa7b !important;
   --dracula-orange: #ffb86c !important;
